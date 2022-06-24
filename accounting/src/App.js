@@ -2,6 +2,7 @@ import {BrowserRouter as Router, Route, Switch, BrowserRouter} from 'react-route
 import Accounts from './components/Accounts.js'
 import Account from './components/Account.js'
 import './App.css';
+import React from 'react';
 
 
 
@@ -24,3 +25,4 @@ function App() {
 }
 
 export default App;
+
